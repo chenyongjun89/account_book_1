@@ -15,7 +15,6 @@ requirements = python3,kivy
 
 android.api = 33
 android.ndk = 25b
-android.sdk = 24
 android.archs = arm64-v8a
 
 android.permissions = ACCESS_NETWORK_STATE
